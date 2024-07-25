@@ -2,3 +2,4 @@ fastapi
 uvicorn
 pydantic
 transformers
+tensorflow==2.16.1
